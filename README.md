@@ -1,1 +1,1 @@
-# M5DRATSTREM
+worker: node bot.js
